@@ -1,4 +1,6 @@
->NOTE: This is a fork of no longer developed plugin by Darryn Campbell at: https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent. The only reason for forking is to remove the now problematic permission of `REQUEST_INSTALL_PACKAGES`: https://support.google.com/googleplay/android-developer/answer/12085295?hl=en
+>*NOTE*: This is a fork of no longer developed project by Darryn Campbell at: https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent. 
+> 
+>The only reason for forking is to remove the now problematic permission of `REQUEST_INSTALL_PACKAGES`: https://support.google.com/googleplay/android-developer/answer/12085295?hl=en
 > 
 > What follows below is the original README.
 
